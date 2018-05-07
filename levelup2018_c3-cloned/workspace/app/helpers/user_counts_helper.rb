@@ -1,0 +1,2 @@
+module UserCountsHelper
+end
